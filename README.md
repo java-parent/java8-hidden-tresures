@@ -1,0 +1,2 @@
+# java8-hidden-tresures
+Java 8 has lambdas and streams, but the JDK has gone through a significant makeover to make good use of lambdas and streams. Furthermore, some of the new functional interfaces have far more than abstract methods. This presentation goes beyond lambdas and streams and takes a look at some of the fun-filled, useful elements of the JDK that will help us make better use of lambdas and streams.
